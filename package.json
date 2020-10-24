@@ -1,0 +1,22 @@
+{
+  "name": "kod-bazis-node-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Isihaaaa/kod-bazis-node-tutorial.git"
+  },
+  "author": "Isihaaaa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Isihaaaa/kod-bazis-node-tutorial/issues"
+  },
+  "homepage": "https://github.com/Isihaaaa/kod-bazis-node-tutorial#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
